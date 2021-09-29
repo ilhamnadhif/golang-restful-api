@@ -8,5 +8,12 @@
       <jdbc-url>jdbc:mysql://localhost:3306/belajar_golang_restful_api</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
+    <data-source source="LOCAL" name="MySQL - belajar_golang_restful_api@localhost [2]" uuid="bb356632-b68b-4db8-b73f-8d8373061cbc">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/belajar_golang_restful_api</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
   </component>
 </project>
